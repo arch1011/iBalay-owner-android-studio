@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iBalay-owner</string>
+    <string name="retry_again">Retry Again</string>
+    <string name="failed_to_connect">failed to connect</string>
+</resources>
